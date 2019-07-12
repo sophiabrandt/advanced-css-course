@@ -458,12 +458,15 @@
 .heading-4--light	Nexter/final/css/style.prefix.css	/^  .heading-4--light {$/;"	c
 .heading-primary	Natours/after-S05/css/style.css	/^.heading-primary {$/;"	c
 .heading-primary	Natours/final-after-S06/css/style.comp.css	/^.heading-primary {$/;"	c
+.heading-primary	Natours/working-files/css/style.css	/^.heading-primary {$/;"	c
 .heading-primary--main	Natours/after-S05/css/style.css	/^  .heading-primary--main {$/;"	c
 .heading-primary--main	Natours/final-after-S06/css/style.comp.css	/^      .heading-primary--main {$/;"	c
 .heading-primary--main	Natours/final-after-S06/css/style.comp.css	/^  .heading-primary--main {$/;"	c
 .heading-primary--sub	Natours/after-S05/css/style.css	/^  .heading-primary--sub {$/;"	c
 .heading-primary--sub	Natours/final-after-S06/css/style.comp.css	/^      .heading-primary--sub {$/;"	c
 .heading-primary--sub	Natours/final-after-S06/css/style.comp.css	/^  .heading-primary--sub {$/;"	c
+.heading-primary-main	Natours/working-files/css/style.css	/^.heading-primary-main {$/;"	c
+.heading-primary-sub	Natours/working-files/css/style.css	/^.heading-primary-sub {$/;"	c
 .heading-secondary	Natours/after-S05/css/style.css	/^.heading-secondary {$/;"	c
 .heading-secondary	Natours/final-after-S06/css/style.comp.css	/^    .heading-secondary {$/;"	c
 .heading-secondary	Natours/final-after-S06/css/style.comp.css	/^.heading-secondary {$/;"	c
@@ -858,9 +861,11 @@
 .list__item::before	Trillo/final/css/style.css	/^:root{--color-primary:#eb2f64;--color-primary-light:#FF3366;--color-primary-dark:#BA265D;--color/;"	c
 .list__item::before	Trillo/final/css/style.prefix.css	/^      .list__item::before {$/;"	c
 .list__item::before	Trillo/final/css/style.prefix.css	/^  .list__item::before {$/;"	c
+.logo	Natours/working-files/css/style.css	/^.logo {$/;"	c
 .logo	Trillo/final/css/style.comp.css	/^.logo {$/;"	c
 .logo	Trillo/final/css/style.css	/^:root{--color-primary:#eb2f64;--color-primary-light:#FF3366;--color-primary-dark:#BA265D;--color/;"	c
 .logo	Trillo/final/css/style.prefix.css	/^.logo {$/;"	c
+.logo-box	Natours/working-files/css/style.css	/^.logo-box {$/;"	c
 .mb-hg	Nexter/final/css/style.comp.css	/^.mb-hg {$/;"	c
 .mb-hg	Nexter/final/css/style.css	/^.mb-hg {$/;"	c
 .mb-hg	Nexter/final/css/style.prefix.css	/^.mb-hg {$/;"	c
@@ -1268,6 +1273,7 @@
 .story__text	Nexter/final/css/style.comp.css	/^.story__text {$/;"	c
 .story__text	Nexter/final/css/style.css	/^.story__text {$/;"	c
 .story__text	Nexter/final/css/style.prefix.css	/^.story__text {$/;"	c
+.text-box	Natours/working-files/css/style.css	/^.text-box {$/;"	c
 .u-center-text	Natours/after-S05/css/style.css	/^.u-center-text {$/;"	c
 .u-center-text	Natours/final-after-S06/css/style.comp.css	/^.u-center-text {$/;"	c
 .u-margin-bottom-big	Natours/after-S05/css/style.css	/^.u-margin-bottom-big {$/;"	c
@@ -1350,6 +1356,7 @@ Most popular tours	Natours/final-after-S06/index.html	/^                    <\/h
 Other extensions I use (will keep it updated)	vscode-setup.md	/^### Other extensions I use (will keep it updated) $/;"	S
 Outdoors is where life happens	Natours/after-S05/index.html	/^                <\/h1>$/;"	h
 Outdoors is where life happens	Natours/final-after-S06/index.html	/^                <\/h1>$/;"	h
+Outdoors is where life happens	Natours/working-files/index.html	/^                <\/h1>$/;"	h
 Possible fixes for common problems with NPM packages	npm-fixes.md	/^# Possible fixes for common problems with NPM packages$/;"	c
 Q10: Are the videos downloadable?	README.md	/^### Q10: Are the videos downloadable?$/;"	S
 Q11: I love your courses and want to get updates on new courses. How?	README.md	/^### Q11: I love your courses and want to get updates on new courses. How?$/;"	S
