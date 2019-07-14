@@ -63,6 +63,7 @@
 .btn--white	Natours/final-after-S06/css/style.comp.css	/^.btn--white {$/;"	c
 .btn--white::after	Natours/after-S05/css/style.css	/^  .btn--white::after {$/;"	c
 .btn--white::after	Natours/final-after-S06/css/style.comp.css	/^  .btn--white::after {$/;"	c
+.btn-animated	Natours/working-files/css/style.css	/^.btn-animated {$/;"	c
 .btn-inline	Trillo/final/css/style.comp.css	/^.btn-inline {$/;"	c
 .btn-inline	Trillo/final/css/style.css	/^:root{--color-primary:#eb2f64;--color-primary-light:#FF3366;--color-primary-dark:#BA265D;--color/;"	c
 .btn-inline	Trillo/final/css/style.prefix.css	/^.btn-inline {$/;"	c
@@ -86,10 +87,14 @@
 .btn-text:link	Natours/final-after-S06/css/style.comp.css	/^.btn-text:link, .btn-text:visited {$/;"	c
 .btn-text:visited	Natours/after-S05/css/style.css	/^.btn-text:link, .btn-text:visited {$/;"	c
 .btn-text:visited	Natours/final-after-S06/css/style.comp.css	/^.btn-text:link, .btn-text:visited {$/;"	c
+.btn-white	Natours/working-files/css/style.css	/^.btn-white {$/;"	c
+.btn-white::after	Natours/working-files/css/style.css	/^.btn-white::after {$/;"	c
 .btn::after	Natours/after-S05/css/style.css	/^.btn::after {$/;"	c
 .btn::after	Natours/final-after-S06/css/style.comp.css	/^.btn::after {$/;"	c
+.btn::after	Natours/working-files/css/style.css	/^.btn::after {$/;"	c
 .btn:active	Natours/after-S05/css/style.css	/^.btn:active, .btn:focus {$/;"	c
 .btn:active	Natours/final-after-S06/css/style.comp.css	/^.btn:active, .btn:focus {$/;"	c
+.btn:active	Natours/working-files/css/style.css	/^.btn:active {$/;"	c
 .btn:focus	Natours/after-S05/css/style.css	/^.btn:active, .btn:focus {$/;"	c
 .btn:focus	Natours/final-after-S06/css/style.comp.css	/^.btn:active, .btn:focus {$/;"	c
 .btn:focus	Trillo/final/css/style.comp.css	/^  .btn:focus {$/;"	c
@@ -97,6 +102,7 @@
 .btn:focus	Trillo/final/css/style.prefix.css	/^  .btn:focus {$/;"	c
 .btn:hover	Natours/after-S05/css/style.css	/^.btn:hover {$/;"	c
 .btn:hover	Natours/final-after-S06/css/style.comp.css	/^.btn:hover {$/;"	c
+.btn:hover	Natours/working-files/css/style.css	/^.btn:hover {$/;"	c
 .btn:hover	Nexter/final/css/style.comp.css	/^  .btn:hover {$/;"	c
 .btn:hover	Nexter/final/css/style.css	/^  .btn:hover {$/;"	c
 .btn:hover	Nexter/final/css/style.prefix.css	/^  .btn:hover {$/;"	c
@@ -111,10 +117,13 @@
 .btn:hover .btn__visible	Trillo/final/css/style.prefix.css	/^  .btn:hover .btn__visible {$/;"	c
 .btn:hover::after	Natours/after-S05/css/style.css	/^  .btn:hover::after {$/;"	c
 .btn:hover::after	Natours/final-after-S06/css/style.comp.css	/^  .btn:hover::after {$/;"	c
+.btn:hover::after	Natours/working-files/css/style.css	/^.btn:hover::after {$/;"	c
 .btn:link	Natours/after-S05/css/style.css	/^.btn, .btn:link, .btn:visited {$/;"	c
 .btn:link	Natours/final-after-S06/css/style.comp.css	/^.btn, .btn:link, .btn:visited {$/;"	c
+.btn:link	Natours/working-files/css/style.css	/^.btn:link,$/;"	c
 .btn:visited	Natours/after-S05/css/style.css	/^.btn, .btn:link, .btn:visited {$/;"	c
 .btn:visited	Natours/final-after-S06/css/style.comp.css	/^.btn, .btn:link, .btn:visited {$/;"	c
+.btn:visited	Natours/working-files/css/style.css	/^.btn:visited {$/;"	c
 .btn>*	Trillo/final/css/style.css	/^:root{--color-primary:#eb2f64;--color-primary-light:#FF3366;--color-primary-dark:#BA265D;--color/;"	c
 .btn__invisible	Trillo/final/css/style.comp.css	/^  .btn__invisible {$/;"	c
 .btn__invisible	Trillo/final/css/style.css	/^:root{--color-primary:#eb2f64;--color-primary-light:#FF3366;--color-primary-dark:#BA265D;--color/;"	c
